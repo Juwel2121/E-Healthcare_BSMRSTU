@@ -13,12 +13,10 @@ This application is implemented using Java and MySQL within Apache NetBeans. It 
 ### Screenshot of the Application
 ![App Screenshot](path_to_your_image/app_screenshot.png)
 
-## Features
-- Comprehensive information on healthcare services at BSMRSTU.
-- Secure storage of all community member data.
-- Access to health status for all users.
-- Ability to manage user information easily (insert, delete).
-- Functionality as a blood bank.
+## Key Features
+- Role-based access for Admin, Teacher, Doctor, Nurse, and Student modules.
+- Secure management of medical reports and member data.
+- Blood donation management and health status tracking.
 
 ## Objectives
 - Promote accurate information regarding healthcare.
