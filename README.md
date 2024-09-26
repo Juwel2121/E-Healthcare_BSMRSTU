@@ -40,25 +40,7 @@ Each user role has specific access rights to add, delete, or update data in the 
 - Immunization records for children are maintained systematically.
 - Information about diseases and available treatments is generally stored in memory by doctors.
 
-## Advantages
-- Easy access to user information.
-- Rapid retrieval of desired data.
-- Simplified health status maintenance.
-- Enhanced health safety through quick information access.
-- Secure information management.
 
-## Limitations
-- Limited information on diseases.
-- Small dataset.
-- No direct communication channel between doctors and patients.
-- Lack of a dedicated help center.
-
-## Future Plans
-- Expand the dataset to include more information.
-- Integrate graphs and charts for statistical insights.
-- Implement monthly health status features.
-- Develop a user-friendly webpage for better accessibility.
-- Add telemedicine features to enhance healthcare delivery.
 
 ## Getting Started
 
