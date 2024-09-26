@@ -48,7 +48,7 @@ To set up the project locally, follow these steps:
    git clone https://github.com/yourusername/E-Healthcare_BSMRSTU.git
    
 
-### Screenshot of the Application
+### For details about the Application
 ![App Screenshot](https://github.com/Juwel2121/E-Healthcare_BSMRSTU/blob/main/project-screenshot/login-window.png)
 ![App Screenshot](https://github.com/Juwel2121/E-Healthcare_BSMRSTU/blob/main/project-screenshot/blood-bank-window.png)
 ![App Screenshot](https://github.com/Juwel2121/E-Healthcare_BSMRSTU/blob/main/project-screenshot/display-window.png)
