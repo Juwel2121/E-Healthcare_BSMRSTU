@@ -2,11 +2,9 @@
 
 ![Project Banner](https://github.com/Juwel2121/E-Healthcare_BSMRSTU/blob/main/project-screenshot/welcome-window.png)
 
-## Abstract
-The **E-Healthcare BSMRSTU** project aims to provide e-health services and information to the BSMRSTU community. In the face of misinformation, this project simplifies access to various health services and advice tailored to individual user needs. By following the provided instructions, users can enhance their health safety and access a wealth of information about available services, including contacting the Corona control department.
-
 ## Introduction
-The **E-Healthcare BSMRSTU** project functions as a comprehensive healthcare management system tailored for the BSMRSTU community. Administrators can easily manage medical reports and member information, allowing for efficient insertion, deletion, and updates. Each member of the community has a unique identity that facilitates personalized healthcare management.
+The E-Healthcare BSMRSTU project offers a comprehensive healthcare management system for the BSMRSTU community. It streamlines access to personalized e-health services, allowing administrators to efficiently manage medical reports and member data. Users can access health advice and essential services, including connecting with the Corona control department, to improve health safety.
+
 
 This application is implemented using Java and MySQL within Apache NetBeans. It can also function as a blood bank by enabling users to share their blood group information and indicate their willingness to donate.
 
