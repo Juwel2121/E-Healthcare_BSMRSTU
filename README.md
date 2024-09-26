@@ -33,15 +33,6 @@ This application is implemented using Java and MySQL within Apache NetBeans. It 
 
 Each user role has specific access rights to add, delete, or update data in the system.
 
-## Scope of the Project
-- Patient information is recorded by name, age, and gender for easy retrieval.
-- Billing is automated based on recorded services provided to patients.
-- Diagnosis information is documented and archived periodically to reduce paperwork.
-- Immunization records for children are maintained systematically.
-- Information about diseases and available treatments is generally stored in memory by doctors.
-
-
-
 ## Getting Started
 
 To set up the project locally, follow these steps:
